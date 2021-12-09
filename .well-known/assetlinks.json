@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.acepay.paynow",
+    "sha256_cert_fingerprints":
+    ["76:FB:48:CC:51:A5:B0:D1:F4:71:10:AD:E5:55:12:01:A9:4D:85:F4:00:2D:71:8C:57:D1:C2:C9:96:82:1F:96"]
+  }
+}]
