@@ -1,0 +1,15 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "1533230655.com.acepay.paynow",
+        "paths": ["*"]
+      },
+      {
+        "appID": "1532870712.com.acepay.paynow.elite",
+        "paths": ["*"]
+      }
+    ]
+  }
+}
