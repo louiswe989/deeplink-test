@@ -1,15 +1,10 @@
 {
   "applinks": {
-    "apps": [],
-    "details": [
-      {
-        "appID": "852RLBV3J2.com.acepay.paynow",
-        "paths": ["*"]
-      },
-      {
-        "appID": "852RLBV3J2.com.acepay.paynow.elite",
-        "paths": ["*"]
-      }
-    ]
-  }
+      "details": [
+           {
+             "appIDs": [ "852RLBV3J2.com.acepay.paynow" ],
+             "components": []
+           }
+       ]
+   }
 }
